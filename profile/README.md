@@ -91,14 +91,9 @@ curl https://httpbin.org/get
 
 Open `http://localhost:8082` to inspect traffic in the Web UI.
 
-## Repositories
+## Repository
 
-| Repository | Purpose |
-| --- | --- |
-| [apxy](https://github.com/apxydev/apxy) | Public entry point, releases, mock templates, examples, and installation paths |
-| [apxy-core](https://github.com/apxydev/apxy-core) | Core proxy engine, CLI, Web UI integration, and product internals |
-| [apxy-docs](https://github.com/apxydev/apxy-docs) | Documentation site |
-| [apxy-website](https://github.com/apxydev/apxy-website) | Marketing site, pricing, workflow pages, and distribution content |
+- [apxy](https://github.com/apxydev/apxy) - public entry point, releases, mock templates, examples, and installation paths
 
 ## How It Works
 
